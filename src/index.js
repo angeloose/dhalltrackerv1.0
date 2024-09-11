@@ -1,10 +1,19 @@
-import React from 'react';
-import ReactDOM from 'react-dom/client';
+//import React from 'react';
+//import ReactDOM from 'react-dom/client';
 
-const header = <><h1> CSULB Dining Hall Tracker</h1> <p> eat shit</p></>
-const root = ReactDOM.createRoot(document.getElementById('root'));
+// const header = <><h1> CSULB Dining Hall Tracker</h1> <p> Please select a dining hall.</p></>
+// const dining_halls = (
+//     <table>
+//         <tr>
+//             <td>Hillside</td>
+//             <td>Parkside</td>
+//             <td>Beachside</td>
+//         </tr>
+//     </table>
+// )
+// const header_root = ReactDOM.createRoot(document.getElementById('roosdt'));
 
-root.render(header);
+// header_root.render(header);
 
 // If you want to start measuring performance in your app, pass a function
 // to log results (for example: reportWebVitals(console.log))
