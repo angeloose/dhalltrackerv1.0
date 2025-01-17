@@ -1,0 +1,7 @@
+important
+-figure out how to track/read data from the csulb website and use jsx
+
+
+later
+-make dynamic swag buttons
+
